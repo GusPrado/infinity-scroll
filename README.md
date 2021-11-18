@@ -28,8 +28,8 @@ You will need to create a developer account on Unsplash, and just after that you
 
 ### Demo
 
-![infinite loop](https://i.postimg.cc/nVvW3N1X/infinte-scroll.gif)
-![infinite loop mobile](https://i.postimg.cc/Fzgn1JKy/infinite-scroll-mobile.gif)
+![infinite scroll](https://i.postimg.cc/nVvW3N1X/infinte-scroll.gif)
+![infinite scroll mobile](https://i.postimg.cc/Fzgn1JKy/infinite-scroll-mobile.gif)
 
 ### Features
 
